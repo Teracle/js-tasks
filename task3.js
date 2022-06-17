@@ -25,3 +25,5 @@ const formatWord=(num)=> {
 formatWord(25);
 formatWord(41);
 formatWord(48);
+
+//~20 minutes
