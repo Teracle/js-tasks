@@ -3,3 +3,5 @@ const splitCities=(arr)=>{
 }
 
 splitCities(["Воронеж","Miami","Toronto","Vancouver"]);
+
+//7 minutes
