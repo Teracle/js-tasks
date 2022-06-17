@@ -45,3 +45,5 @@ const checkNum=(num)=> {
 }
 
 console.log(checkNum(55));
+
+//35 minutes
