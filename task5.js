@@ -23,3 +23,5 @@ const compareArrays=(arr1, arr2)=>{
 
 
 console.log(compareArrays([7,17,1,9,1,17,56,56,23],[56, 17, 17, 1, 23, 34, 23, 1, 8, 1]));
+
+//~25 minutes
